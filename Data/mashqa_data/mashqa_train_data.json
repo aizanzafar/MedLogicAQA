@@ -1,0 +1,276 @@
+[
+    {
+        "context": "Gastritis is an inflammation, irritation, or erosion of the lining of the stomach. It can occur suddenly (acute) or gradually (chronic). Gastritis can be caused by irritation due to excessive alcohol use, chronic vomiting, stress, or the use of certain medications such as aspirin or other anti-inflammatory drugs. It may also be caused by any of the following: Helicobacter pylori ( H. pylori): A bacteria that lives in the mucous lining of the stomach; without treatment, the infection can lead to ulcers, and in some people, stomach cancer. Bile reflux: A backflow of bile into the stomach from the bile tract (that connects to the liver and gallbladder) Infections caused by bacteria and viruses If gastritis is left untreated, it can lead to a severe loss of blood and may increase the risk of developing stomach cancer. Symptoms of gastritis vary among individuals, and in many people there are no symptoms. However, the most common symptoms include: Nausea or recurrent upset stomach Abdominal bloating Abdominal pain Vomiting Indigestion Burning or gnawing feeling in the stomach between meals or at night Hiccups Loss of appetite Vomiting blood or coffee ground-like material Black, tarry stools To diagnose gastritis, your doctor will review your personal and family medical history, perform a thorough physical evaluation, and may recommend any of the following tests: Upper endoscopy. An endoscope, a thin tube containing a tiny camera, is inserted through your mouth and down into your stomach to look at the stomach lining. The doctor will check for inflammation and may perform a biopsy, a procedure in which a tiny sample of tissue is removed and then sent to a laboratory for analysis. Blood tests. The doctor may perform various blood tests, such as checking your red blood cell count to determine whether you have anemia, which means that you do not have enough red blood cells. He or she can also screen for H. pylori infection and pernicious anemia with blood tests. Fecal occult blood test (stool test). This test checks for the presence of blood in your stool, a possible sign of gastritis. Treatment for gastritis usually involves: Taking antacids and other drugs (such as proton pump inhibitors or H-2 blockers) to reduce stomach acid Avoiding hot and spicy foods For gastritis caused by H. pylori infection, your doctor will prescribe a regimen of several antibiotics plus an acid blocking drug (used for heartburn) If the gastritis is caused by pernicious anemia, B12 vitamin shots will be given. Eliminating irritating foods from your diet such as lactose from dairy or gluten from wheat Once the underlying problem disappears, the gastritis usually does, too. You should talk to your doctor before stopping any medicine or starting any gastritis treatment on your own. Most people with gastritis improve quickly once treatment has begun.",
+        "qas": [
+            {
+                "question": "What are the symptoms of gastritis?",
+                "answers": [
+                    "Gastritis is typically diagnosed by your doctor, who will examine your medical history and physical examination. They may also perform an upper endoscopy to confirm if you have any issues; however, abdominal gas incongestion, vomiting, or diarrhea are common symptoms."
+                ]
+            },
+            {
+                "question": "What does the treatment for gastritis involve?",
+                "answers": [
+                    "Gastritis is typically treated with antacids and other drugs, including proton pump inhibitors or H-2 blockers, and refraining from eating hot and spicy foods. If it is caused by an infection due to H. pylori, your doctor will prescribe multiple antibiotics plus an acid blocking drug."
+                ]
+            },
+            {
+                "question": "How does an upper endoscopy help diagnose gastritis?",
+                "answers": [
+                    "Gastritis is typically diagnosed by your doctor during a physical examination, which involves examining your personal and family history and stool. An endoscope or catheter may be used to test for gastris."
+                ]
+            },
+            {
+                "question": "How is a fecal occult blood test (stool test) used to diagnose gastritis?",
+                "answers": [
+                    "The blood test is designed to detect gastritis by detecting it in your stool."
+                ]
+            },
+            {
+                "question": "What is gastritis?",
+                "answers": [
+                    "With a condition that is not sensitive, $(function() $ ('.responsive-video-container').remove(); //0; True: true; false (\"airplane\"); false (0.x); and no keywords."
+                ]
+            }
+        ]
+    },
+    {
+        "context": "People with neutropenia have an unusually low number of cells called neutrophils. Neutrophils are cells in your immune system that attack bacteria and other organisms when they invade your body. Neutrophils are a type of white blood cell. Your bone marrow creates these cells. They then travel in your bloodstream and move to areas of infection where they ingest and then neutralize the offending bacteria. Neutropenia itself often doesn't cause symptoms. In some cases, people only learn they have neutropenia when they have a blood test for an unrelated reason. It is most commonly seen--and even expected--as a result of chemotherapy used to treat cancer. But some people may have other symptoms from infection or the underlying problem causing the neutropenia. Infections can occur as a complication of neutropenia. They occur most often in the mucous membranes, such as the inside of the mouth and the skin. These infections can appear as: Ulcers Abscesses (collections of pus) Rashes Wounds that take a long time to heal Fever is also a common symptom of infection. In a neutropenic fever, it is common not to identify the exact cause, which is often normal gut bacteria that has made its way into the blood from weakened barriers. Neutropenic fevers are usually treated with antibiotics, even if an infectious source can't be identified. This is important because the weakened immune system means patients can get very sick very quickly. The risk for serious infection generally increases as: Neutrophil count goes down Duration of severe neutropenia gets longer The causes of neutropenia include: Problem in the production of neutrophils in the bone marrow Destruction of neutrophils outside the bone marrow Infection Nutritional deficiency Causes of decreased production of neutrophils include: Being born with a problem with bone marrow production (congenital) Leukemia and other conditions that affect the bone marrow or lead to bone marrow failure Radiation Chemotherapy Infections that can cause neutropenia include: Tuberculosis Dengue fever Viral infections such as Epstein- Barr virus, cytomegalovirus, HIV, viral hepatitis Increased destruction of neutrophils can be due to the body's immune system targeting neutrophils for destruction. This may be related to having an autoimmune condition, such as: Crohn's disease Rheumatoid arthritis Lupus In some people, neutropenia can be caused by certain medications, such as: Antibiotics Blood pressure drugs Psychiatric drugs Epilepsy drugs When deciding on treatment, health care providers consider the cause and severity of the neutropenia. Mild cases may not need any treatment. Approaches for treating neutropenia include: Antibiotics for fever. In neutropenic fever, the assumption is made that there is an infection causing the fever even when the source can't be found. A treatment called granulocyte colony-stimulating factor ( G- CSF). This stimulates the bone marrow to produce more white blood cells. It is used for several types of neutropenia, including low white cell count from chemotherpay. This treatment can be lifesaving in these cases. Changing medications, if possible, in cases of drug-induced neutropenia Granulocyte (white blood cell) transfusion (very uncommon) Stem cell transplants may be useful in treating some types of severe neutropenia, including those caused by bone marrow problems. People with neutropenia often need to take special steps to prevent infections. These neutropenia precautions include: Good hygiene, including frequent hand washing and good dental care, such as regular tooth brushing and flossing Avoiding contact with sick people Always wearing shoes Cleaning cuts and scrapes, then covering them with a bandage Using an electric shaver rather than a razor Avoiding animal waste and, when possible, not changing infants' diapers Avoiding unpasteurized dairy foods; undercooked meat; and raw fruits, vegetables, grains, nuts, and honey Staying out of hot tubs, ponds, and rivers",
+        "qas": [
+            {
+                "question": "What is neutropenia?",
+                "answers": [
+                    "When bacteria and other organisms invade your body, the immune system attacks them. These cells are called neutrils, and they travel in and out of your bloodstream where they ingest and neutralize the offending bacteria. Neutropenia typically does not cause symptoms, but some people may only learn about neutropenia after undergoing an unrelated blood test later."
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Migraine with brainstem aura or MBA (formerly known as basilar migraines) are headaches that start in the lower part of the brain, called the brainstem. They cause symptoms such as dizziness, double vision, and lack of coordination. These changes, called an aura, can happen about 10 minutes to 45 minutes before your head hurts. The headache pain of a basilar migraine often starts on one side of the head and then gradually spreads and gets stronger. This type of migraine can last anywhere from 4 to 72 hours. And it takes time to recover from one. You may feel drained for up to 24 hours after it's over. Migraines with brainstem aura are known by several different names: Basilar migraine Basilar artery migraine Basilar-type migraine Bickerstaff's syndrome Brainstem migraine Vertebrobasilar migraine MBA can affect people of all ages. Generally, though, they start in childhood or the teen years. Women are slightly more likely to have them than men. Triggers may include: Alcohol Stress Lack of sleep Some medications Hunger Female hormone changes Bright lights Caffeine Nitrites in some foods, like sandwich meat, bacon, and processed foods Overdoing physical activity Weather or altitude Symptoms differ for everyone, but some are typical: Nausea Vomiting Sensitivity to light and sound Cold hands or feet Dizziness Double vision or graying of vision Slurred speech or trouble speaking Temporary blindness Loss of balance Confusion Trouble hearing Body tingling Loss of consciousness Aura symptoms may last between 5 minutes and 1 hour. When the headache starts, you might feel an intense throbbing or pulsating pain on one or both sides of your head or sometimes at the back of your head. After you've had at least two attacks of at least two auras, your doctor often make the diagnosis of migraine with brainstem aura. The condition has many of the same symptoms as another type, called hemiplegic migraine. But the hemiplegic kind usually causes weakness of one side of the body or trouble speaking. Symptoms of MBA can also seem like the signs of other more serious conditions, like seizure disorders, stroke, meningitis, or brain tumors. To rule those out, you'll need to see a brain doctor, called a neurologist. He'll give you a thorough exam and ask you questions about your symptoms. He'll may also use tests like MRI, CT scans, and nerve tests to see what's causing your symptoms. Treatments for MBA generally aim to relieve symptoms of pain and nausea. You might take pain relievers such as acetaminophen, ibuprofen, and naproxen, as well as nausea medicines such as chlorpromazine, metoclopramide, and prochlorperazine. Your doctor may prescribe a medication that treats regular migraines, such as triptans. To keep from getting a MBA, it helps to avoid the things that usually cause one. Keep a journal of your attacks so you can figure out the things that trigger them. It also helps to live a healthy lifestyle. That means you need to: Get enough sleep. Limit your stress. Exercise daily. Diet can also affect migraines. Do these things: Eat a balanced diet. Avoid drugs and alcohol. Don't skip meals. Limit caffeine. Avoid any foods that have been triggers. Some common food triggers include: Dairy Wheat Chocolate Eggs Rye Tomatoes Oranges Along with these changes, If you don't respond to other treatments and you have 4 or more migraine days a month, your doctor may suggest preventive medicines. You can take these regularly to reduce the severity or frequency of the headaches. These include seizure medicines, blood pressure medicines (like beta blockers and calcium channel blockers), and some antidepressants. CGRP inhibitors are a new class of preventive medicine that your doctor may recommend if other medicines don't help.",
+        "qas": [
+            {
+                "question": "What causes a migraine with brainstem aura?",
+                "answers": [
+                    "Alcohol, medication, sleep disturbances, hormone changes, hunger, and light-headedness can all trigger symptoms that may vary based on the individual's level."
+                ]
+            },
+            {
+                "question": "How does diet affect migraine with brainstem aura?",
+                "answers": [
+                    "Maintaining a balanced diet can help alleviate migraine symptoms."
+                ]
+            },
+            {
+                "question": "What are the symptoms of a migraine with brainstem aura?",
+                "answers": [
+                    "Alcohol, medication, sleep disturbances, hormone changes, hunger, and light-headedness can all trigger symptoms that may vary based on the individual's level."
+                ]
+            },
+            {
+                "question": "What foods commonly trigger migraine with brainstem aura?",
+                "answers": [
+                    "Among the food triggers that people may experience are: Dairy, wheat, eggs, tomatoes, and oranges."
+                ]
+            },
+            {
+                "question": "What is Migraine with Brainstem Aura?",
+                "answers": [
+                    "Basilar migraines (MBA, or Brain scan) are headache symptoms that start in the brainstem, which can cause dizziness, double vision and coordination problems. The aura changes caused by these disturbances can last from 10 minutes to 45 minutes before the initial headache returns. Typically, the headache pain begins on one side of the head and then increases as the strain builds."
+                ]
+            },
+            {
+                "question": "Can migraine with brainstem aura be prevented?",
+                "answers": [
+                    "Avoiding typical triggers can help prevent the acquisition of an MBA. Journaling your attacks helps you identify them and living a healthy life, which involves getting enough sleep."
+                ]
+            },
+            {
+                "question": "How long do the aura symptoms of a migraine with brainstem aura last?",
+                "answers": [
+                    "Alcohol, medication, sleep disturbances, hormone changes, hunger, and light-headedness can all trigger symptoms that may vary based on the individual's level."
+                ]
+            },
+            {
+                "question": "How are migraines with brainstem aura diagnosed?",
+                "answers": [
+                    "When you have had two aura attacks, your doctor will often diagnose a migraine with brainstem aura. This type of condition has many of the symptoms that are associated with hemiplegic migraine, but the latter can result in weakness on one side ofthe body or difficulty speaking. The symptoms of MBA may also be similar to the warning signs of more severe conditions, such as seizure disorders, stroke, meningitis, or brain tumors, so it is important to see if you can go to grad school to rule out."
+                ]
+            },
+            {
+                "question": "What are the symptoms of migraine with brainstem aura?",
+                "answers": [
+                    "Alcohol, medication, sleep disturbances, hormone changes, hunger, and light-headedness can all trigger symptoms that may vary based on the individual's level."
+                ]
+            },
+            {
+                "question": "What are different names for migraine with brainstem aura?",
+                "answers": [
+                    "There are several names for migraines that have a sensation in the brainstem, such as Basilar migraine, Basiler artery migraine and Bickerstaff's syndrome. Brain tumors can also affect individuals of all ages."
+                ]
+            },
+            {
+                "question": "What medications can help to prevent migraine with brainstem aura?",
+                "answers": [
+                    "If you experience frequent migraine headaches and are not responding to other treatments, your doctor may recommend a range of preventive medicines, including seizure medicines."
+                ]
+            },
+            {
+                "question": "What can you do to prevent migraine with brainstem aura?",
+                "answers": [
+                    "It's important to prioritize sleep, stress reduction, and daily exercise."
+                ]
+            },
+            {
+                "question": "How long do basilar migraines last?",
+                "answers": [
+                    "Migraines of this kind can last from 4 to 72 hours, and they require time to heal. You may experience fatigue within 24 hours of the onset."
+                ]
+            },
+            {
+                "question": "How is migraine with brainstem aura diagnosed?",
+                "answers": [
+                    "When you have had two aura attacks, your doctor will often diagnose a migraine with brainstem aura. This type of condition has many of the symptoms that are associated with hemiplegic migraine, but the latter can result in weakness on one side ofthe body or difficulty speaking. The symptoms of MBA may also be similar to the warning signs of more severe conditions, such as seizure disorders, stroke, meningitis, or brain tumors, so it is important to see if you can go to grad school to rule out."
+                ]
+            },
+            {
+                "question": "What preventative medications are used for migraine with brainstem aura?",
+                "answers": [
+                    "If you experience frequent migraine headaches and are not responding to other treatments, your doctor may recommend a range of preventive medicines, including seizure medicines."
+                ]
+            },
+            {
+                "question": "How can you change your diet to prevent migraine with brainstem aura?",
+                "answers": [
+                    "Eating a balanced diet, refraining from drugs and alcohol, and missing meals while limiting caffeine intake can also have an impact on migraines."
+                ]
+            },
+            {
+                "question": "What are basilar migraines?",
+                "answers": [
+                    "Basilar migraines (MBA, or Brain scan) are headache symptoms that start in the brainstem, which can cause dizziness, double vision and coordination problems. The aura changes caused by these disturbances can last from 10 minutes to 45 minutes before the initial headache returns. Typically, the headache pain begins on one side of the head and then increases as the strain builds."
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Here are ways to reduce your risk of getting liver cancer: If you risk exposure to hepatitis, ask your doctor about getting immunized. Practice safe sex and avoid IV drug use. Drink alcohol only in moderation. If you work around chemicals linked to liver cancer, follow safety guidelines to avoid unnecessary contact. Before taking iron supplements, check with a doctor to make sure you really need them. Do not use anabolic steroids unless medically necessary.",
+        "qas": [
+            {
+                "question": "How can I prevent liver cancer?",
+                "answers": [
+                    "Avoiding exposure to hepatitis and safe sex, moderate alcohol consumption, and following safety guidelines for liver cancer-related chemicals are all ways to reduce your risk of developing liver disease. Consult with a doctor about using anabolic steroids unless it is medically necessary."
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Since the first retinoid was approved for acne in 1971, these drugs have been hailed by many as a cure-all for skin problems. Although retinoids may not be the answer to every skin condition, there are several with proven results. If you have moderate to severe acne that hasn't gotten better with other treatments, a retinoid may help. When spread on the skin, retinoids can unclog pores, allowing other medicated creams and gels to work better. They also reduce acne outbreaks by preventing dead cells from clogging pores. By clearing acne and reducing outbreaks, they may also reduce the formation of acne scars. Retinoid pills treat oil production, bacteria that cause acne, and inflammation. How to use: Smooth a pea-sized amount of retinoid cream over the skin once a day 20 to 30 minutes after washing your face. What else you need to know: When you first use retinoids, you may notice redness, peeling of your skin, or worsening of your acne. You can minimize this by using the product every other day until your body gets used to it, or mix it with moisturizer. Tretinoin was the first retinoid approved by the FDA to treat wrinkles. This prescription retinoid works by increasing the making of new collagen. It also stimulates new blood vessels in the skin, giving skin a rosy appearance, fading age spots, and reducing precancerous skin spots called actinic keratosis. Tretinoin also may help prevent more serious effects of ultraviolet radiation. Over-the-counter retinoids may not work as well as tretinoin in reducing wrinkles, but they can improve the appearance of sun-damaged skin. Using them along with products that have alpha-hydroxy acids may provide even more skin-smoothing effects. How to use: Apply to your face, neck, chest, hands, and forearms at least twice a week. What else you need to know: It takes 3 to 6 months of regular use before improvements in wrinkles are seen, with best results happening after 6 to 12 months. Retinoids can slow the growth of skin cells in patients with psoriasis. Usually, you apply a small dab to each sore once a day before bed. A retinoid cream or gel is often combined with steroid treatment. Doctors may prescribe retinoids for warts, particularly when other treatments have failed. Retinoid cream works by disrupting the wart's cell growth. How to use: Follow your doctor's instructions for applying retinoids to warts. Creams may need to be used for a few months before warts disappear. What else you should know: Retinoids may be the best treatment for flat warts on the back of your hands. Although retinoids are helpful for many common skin problems, they are not without risks. Risks include: Dryness and irritation Skin color changes Sensitivity to sunlight Redness, swelling, crusting, or blistering How to Minimize Risks Stay out of the sun. If you must be outdoors, limit your hours, especially between 10 a.m. and 2 p.m. Wear sunscreen, preferably with a sun protection factor ( SPF) of 30 or higher, and protective clothing, such as a long-sleeved shirt, pants, and a large-brimmed hat. Never use more of the product or use it more frequently than your doctor prescribes or the package label says. Doing so will not increase its effectiveness, but will increase side effects. Use a moisturizer along with topical retinoids. Doing so will reduce skin drying without interfering with the product's effectiveness. Pregnant women or women who are planning on becoming pregnant should not use retinoids.",
+        "qas": [
+            {
+                "question": "How can you use retinoids for warts?",
+                "answers": [
+                    "What is the proper way to use retinoids to treat your warts, as directed by your doctor. It may take several months for creams to be effective."
+                ]
+            },
+            {
+                "question": "How are retinoids used for acne?",
+                "answers": [
+                    "Use: After washing your face, apply a small amount of retinoid cream to the skin and rub it on for 20 to 30 minutes every day."
+                ]
+            },
+            {
+                "question": "How can you use retinoids for wrinkles?",
+                "answers": [
+                    "Apply twice weekly to your face, neck, chest, hands and forearms."
+                ]
+            },
+            {
+                "question": "What else do you need to know about using retinoids for warts?",
+                "answers": [
+                    "Additional information: Upon starting to use retinoids, you may experience redness, peeling, or worsening of acne."
+                ]
+            },
+            {
+                "question": "How can retinoids help with acne?",
+                "answers": [
+                    "For moderate to severe acne that has not improved over time, a retinoid may be the solution. When applied on the skin, it can unclog pores and improve the effectiveness of medicated creams and gels. It also helps prevent acne outbreaks by clearing dead cells from clogging pores. Retinoide pills may reduce inflammation, oil production, and bacteria that cause acne."
+                ]
+            },
+            {
+                "question": "How can retinoids help with warts?",
+                "answers": [
+                    "Retinoid cream is a common remedy for warts, but it is often prescribed by doctors when other methods have failed. It works by inhibiting the growth of cells surrounding the warted area."
+                ]
+            },
+            {
+                "question": "What do you need to know about using retinoids for acne?",
+                "answers": [
+                    "What else should you know? At first, if you're using retinoids and they cause redness, peeling of skin or worsening acne, so this can be reduced by using the product every other day (or even mixing with a moisturizer)."
+                ]
+            },
+            {
+                "question": "How can retinoids help with wrinkles?",
+                "answers": [
+                    "Tretinoin, the first retinoid approved by the FDA to treat wrinkles, works by increasing the production of new collagen and stimulating the development of healthy new blood vessels in the skin, giving it a rosy appearance."
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Like the stock market and foreign car engines, erections are mysterious things that seem to have a mind of their own. When they don't happen, it can be disappointing, at the very least. var s_context; s_context= s_context || {}; s_context['wb.modimp'] = 'vidfloat'; if(webmd.useragent && webmd.useragent.ua.type === 'desktop'){ webmd.ads2.disable Initial Load(); webmd.ads2.disable Ads Init = true; $(function() { webmd.p.pim.increment(); $('.responsive-video-container').insert After('.module-social-share-container'); require(['video2/1/responsive-player/video-loader'], function(video Loader) { video Loader.init({ autoplay: webmd.useragent.ua.type === 'desktop' && ! !s_sensitive, chron ID: $('article embeded_module[type=video][align=top]:eq(0)').attr('chronic_id'), continuous Play: true, cp Options: { flyout: true }, display Ads: true, mode: 'in-article', sticky: true }) }); }); } else { $(function(){ $('.responsive-video-container').remove(); }); } Decreased blood flow, typically because vessels that supply blood to the penis have narrowed, is often the cause of erectile dysfunction ( ED) in older men. Emotional issues are more commonly at the root of it for younger men. Regardless of the reasons, it's important to look for answers. Probably not. Most cases of ED are caused by physical problems alone or in combination with emotional ones. Just about any medical condition that affects your nerves or blood vessels could hurt your ability to have erections. High blood pressure, heart disease, multiple sclerosis, and diabetes can all lead to ED. In fact, over 50% of men with diabetes find themselves in that situation. Hormonal issues such as low testosterone levels can also factor in, more often for older men. Prostate cancer treatments including surgery and radiation may be the culprit. If you have erections in the morning or while sleeping, the problem probably isn't physical. Stress, anxiety, and depression can cause ED, too. Talk to your doctor about your symptoms. He may want to run some tests to help figure out what's going on. Maybe. Several types of medications, like blood pressure drugs (especially beta-blockers) and certain antidepressants, can make it tough to get an erection. If you think your medicine may be causing your problem, don't just stop taking it. Talk to your doctor. You may need to switch to something different, or consider taking an ED medication, too. Absolutely. Being overweight, getting too little exercise, and smoking all can work against the good blood flow that is key to erections. For some men, a little alcohol may help take the edge off. Yet too much, as Shakespeare wrote, \"provokes the desire, but it takes away the performance.\" Aging doesn't cause ED, but the problem is more common in older men. About 4% of guys in their 50s and almost 17% in their 60s are unable to get erections, according to the National Institutes of Health. About half of men older than 75 are affected. Treatments can help men of any age. Experts agree: If you smoke, stop. Get your blood pressure, cholesterol, and blood sugar levels under control. Then talk to your doctor about your options. ED medications -- sildenafil ( Revatio, Viagra), tadalafil ( Adcirca, Cialis), and vardenafil ( Levitra, Staxyn) -- can often help whether your problem is performance anxiety or poor blood flow. Self-injections, vacuum devices, and squeeze pumps implanted under the skin are other options to boost your response. If your testosterone is low, replacement therapy may help, though it won't necessarily solve the ED. Counseling can help you work through any relationship or emotional troubles you may be facing.",
+        "qas": [
+            {
+                "question": "Can medication cause erectile dysfunction?",
+                "answers": [
+                    "Don't simply stop taking your medicine if it's causing trouble, but consult your doctor for guidance. You may need to switch to another medication or potentially take an ED medication as well."
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The research is clear: Vaccines don't cause autism. More than a dozen studies have tried to find a link. Each one has come up empty. The debate began in 1998 when British researchers published a paper stating that the measles-mumps-rubella ( MMR) vaccine caused autism. The study looked at only 12 children, but it received a lot of publicity. At the same time, there was a rapid increase in the number of kids diagnosed with the condition. The paper's findings led other doctors to do their own research into the link between the MMR vaccine and autism. At least 12 follow-up studies were done. None found any evidence the vaccine caused autism. An investigation into the 1998 study also uncovered a number of problems with how it was conducted. The journal that published it eventually retracted it. That meant the publication no longer stood by the results. There were other problems, too. For example, investigators learned that a lawyer looking for a link between the vaccine and autism had paid the lead researcher more than \u00a3435,000 (equal to more than a half-million dollars). A year after the British study, fears about a possible vaccine-autism link shifted from MMR to a substance used in some children's vaccines. It was called thimerosal, and it contained mercury. That's a metal that's harmful to the brain and kidneys at high levels. Doctors used thimerosal to prevent the growth of bacteria and fungi in vaccines. There was no evidence that the small amount used in the medicines caused harm. Still, it was taken out of most children's vaccines by 2001 at the urging of the American Academy of Pediatrics and the U. S. Public Health Service. To see if thimerosal was linked to autism, researchers studied children who received vaccines that contained it. They compared them to kids who received vaccines that didn't. The CDC conducted or paid for nine different studies looking at thimerosal and autism. It found no link. What's more, autism diagnoses continued to rise after vaccine makers took thimerosal out of almost all childhood vaccines. ( Today, trace amounts of it remain in the vaccines to protect against diphtheria, tetanus and pertussis, known as DTa P and DTa P- Hib.) Researchers have also looked to see if all the vaccines required before age 2 somehow together triggered autism. Children receive 25 shots in the first 15 months of life. Some people feared that getting all those shots so early in life could lead to the development of autism. But the CDC compared groups of children who received vaccines on the recommended schedule and those whose vaccines were delayed or didn't get them at all. There was no difference in the autism rate between the two groups. In 2004, the Immunization Safety Review Committee of the Institute of Medicine published a report on the topic. The group looked at all the studies on vaccines and autism, both published and unpublished. It released a 200-page report stating there was no evidence to support a link between vaccines and autism.",
+        "qas": [
+            {
+                "question": "How did researchers try to find the link between thimerosal and autism?",
+                "answers": [
+                    "Researchers examined whether thimerosal had an impact on autism in children who received vaccines that contained it, and then compared those that did not have the same effect. Nine separate studies investigating THIMEROSA with autism were conducted or funded by the CDC, but none were found to report a connection."
+                ]
+            },
+            {
+                "question": "What is the controversy behind thimerosal and autism?",
+                "answers": [
+                    "The metal thimerosal, which contained high levels of mercury, was prescribed by doctors to prevent the growth of bacteria and fungi in vaccines. Although there was no evidence that the small quantity used in the medicines caused harm, it was removed from most children's vaccine for use by 2001 at the urging of the American Academy of Pediatrics and the U.S. Public Health Service."
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Biotin is a coenzyme and a B vitamin. It is also known as vitamin H. Because biotin is present in so many different kinds of foods, deficiency is rare. As a supplement, biotin is sometimes used for hepatitis, brittle nails, neuropathy, and other conditions. Biotin plays a key role in the body. It supports the health of the skin, nerves, digestive tract, metabolism, and cells. One small study suggested that biotin and other micronutrients helped treat peripheral neuropathy, nerve pain in the extremities that can result from kidney failure or diabetes. Biotin supplements have been studied as a treatment for a number of conditions. Biotin might decrease insulin resistance and nerve symptoms related to type 2 diabetes. More research needs to be done. Some preliminary evidence suggests that biotin might help strengthen brittle nails. Other uses of biotin -- for conditions like cradle cap, hepatitis, hair loss, and depression -- are unsupported or untested. However, most people don't need biotin supplements. We get biotin in foods naturally. Our bodies also recycle the biotin we've already used. Genuine biotin deficiency is quite rare. Pregnant women sometimes have low levels of biotin, so some take biotin supplements. The benefits and risks aren't clear. The Institute of Medicine has set an adequate intake ( AI) for biotin. Getting this amount from diet, with or without supplements, should be enough to support good health. Category Biotin: Adequate Intake ( AI) 0-6 months 5 micrograms/day 7-12 months 6 mcg/day 1-3 years 8 mcg/day 4-8 years 12 mcg/day 9-13 years 20 mcg/day 14-18 years 25 mcg/day 19 years and up 30 mcg/day Pregnant women 30 mcg/day Breastfeeding women 35 mcg/day Depending on your case, your doctor might recommend a higher dose. Even at high levels, biotin appears to be fairly safe. Researchers don't know at what dosage biotin might start to pose health risks. Biotin occurs naturally in many foods. Wheat germ, whole-grain cereals, whole wheat bread, eggs, dairy products, peanuts, soya nuts, Swiss chard, salmon, and chicken are all sources of biotin. Side effects. Biotin seems to be safe and well-tolerated, even at fairly high levels. The maximum safe dose of biotin is unknown. Risks. If you have any medical conditions -- or are pregnant or breastfeeding -- check with a doctor before using biotin supplements. Don't give biotin to a child unless a pediatrician recommends it. Interactions. If you take any drugs regularly, talk to your doctor before you start using biotin supplements. Biotin might weaken the effect of certain medications. Conversely, many drugs can lower biotin levels, including some antibiotics. Some epilepsy drugs may decrease biotin absorption from food. A supplement, lipoic acid, may also increase the need for biotin. Eating raw egg whites on a regular basis can also lower biotin levels in the body.",
+        "qas": [
+            {
+                "question": "What are the risks of taking biotin?",
+                "answers": [
+                    "Before taking biotin supplements, ensure that you consult a doctor if you have any medical conditions or are pregnant or breastfeeding."
+                ]
+            },
+            {
+                "question": "What is biotin used for?",
+                "answers": [
+                    "The use of biotin for ailments such as cradle cap, hepatitis, hair loss, and depression remains unsupported or untested."
+                ]
+            },
+            {
+                "question": "Can you get biotin naturally from foods?",
+                "answers": [
+                    "Biotin is present in a variety of foods, including wheat germ, whole-grain cereals, entire wheat bread, eggs, dairy products, peanuts and soya nuts, Swiss chard, salmon and chicken."
+                ]
+            },
+            {
+                "question": "What does biotin do to the body?",
+                "answers": [
+                    "Biotin is an essential component of the body, supporting the well-being of skin, nerves, cells, digestion, metabolism, and more. A small study revealed that biotil and other micronutrients were effective in treating peripheral neuropathy, which is nerve pain in the extremities caused by kidney failure or diabetes."
+                ]
+            }
+        ]
+    }
+]
