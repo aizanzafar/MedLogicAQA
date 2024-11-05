@@ -1,7 +1,7 @@
 # MedLogicAQA Experiment
 
 This README file provides step-by-step instructions for reproducing the MedLogicAQA experiment. It covers data creation, training, and inference processes.
-
+[[paper]([url](https://arxiv.org/abs/2410.15463))]
 ## Data Creation
 
 ### 1. Converting Extractive MASHQA Dataset into Abstractive Format
